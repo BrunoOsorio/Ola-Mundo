@@ -1,5 +1,5 @@
 # Ola-Mundo
  Primeiro repósito teste
 
- Esse repositório foi criado numa aula ao vivo
+ Esse repositório foi no curso de Git e GitHub
  
