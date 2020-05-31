@@ -1,5 +1,5 @@
 # Olá, Mundo!
  Primeiro repósito teste
 
- Esse repositório foi no curso de Git e GitHub
+ Esse repositório foi criado no curso de Git e GitHub
  
